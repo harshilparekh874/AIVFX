@@ -1,0 +1,15 @@
+{
+    "job_id": "39aa54f2-1e42-464a-9cec-38fe9afb0301",
+    "prompt": "golden hour city skyline",
+    "seed": null,
+    "resolution": "768x768",
+    "duration": 4,
+    "models": {
+        "video_gen": "ModelScope Text-to-Video",
+        "segmentation": "SAM",
+        "depth": "MiDaS",
+        "optical_flow": "Farneback"
+    },
+    "gpu_used": false,
+    "timestamp": 1771533754.5386121
+}

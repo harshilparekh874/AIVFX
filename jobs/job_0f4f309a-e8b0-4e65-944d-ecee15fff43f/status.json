@@ -1,0 +1,1 @@
+{"job_id": "0f4f309a-e8b0-4e65-944d-ecee15fff43f", "status": "failed", "progress": 0, "stage": "error", "prompt": "swan swimming on a lake", "resolution": "768x768", "duration": 4, "seed": null, "error": "GEMINI_API_KEY is not set in .env file."}

@@ -1,0 +1,15 @@
+{
+    "job_id": "a3905805-d2a3-494f-a66b-6e2914cdf169",
+    "prompt": "test vfx scene",
+    "seed": null,
+    "resolution": "768x768",
+    "duration": 4,
+    "models": {
+        "video_gen": "ModelScope Text-to-Video",
+        "segmentation": "SAM",
+        "depth": "MiDaS",
+        "optical_flow": "Farneback"
+    },
+    "gpu_used": false,
+    "timestamp": 1771533558.6090336
+}

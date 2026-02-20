@@ -1,0 +1,1 @@
+{"job_id": "7c7864b4-b9c0-4576-9765-eaff17849584", "status": "failed", "progress": 0, "stage": "error", "prompt": "swan on a lake swimming around", "resolution": "768x768", "duration": 4, "seed": null, "error": "GEMINI_API_KEY is not set in .env file. Please add it to use Veo generation."}

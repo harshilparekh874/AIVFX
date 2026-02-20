@@ -1,0 +1,15 @@
+{
+    "job_id": "9262dd68-7ba2-4305-80a5-5d95d5e3032c",
+    "prompt": "swan swimmin on a lake\n",
+    "seed": null,
+    "resolution": "768x768",
+    "duration": 4,
+    "models": {
+        "video_gen": "ModelScope Text-to-Video",
+        "segmentation": "SAM",
+        "depth": "MiDaS",
+        "optical_flow": "Farneback"
+    },
+    "gpu_used": false,
+    "timestamp": 1771534823.8728364
+}
