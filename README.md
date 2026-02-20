@@ -59,5 +59,7 @@ docker-compose up --build
 - **Model Microservices**: Separate individual ML models into their own containers if needed for fine-grained resource allocation.
 - **S3 Storage**: Swap the filesystem storage for AWS S3 or MinIO for multi-node deployments.
 
+## Work In Progress
+
 ## ⚖️ License
 MIT
